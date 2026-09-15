@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi there, I'm Kush Patel 👋 
 
-<!--
-**Kush-Patel09/Kush-Patel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=Kush-Patel09&style=flat-square&color=blue" alt="Profile Views" />
 
-Here are some ideas to get you started:
+- 💻 I'm a **CSE Student & Aspiring Dev** passionate about building data-driven applications.
+- 🐍 Core Tech Stack: **Python, Data Structures & Algorithms (DSA), and Modern Analytics**.
+- 🏆 Active on [LeetCode](https://leetcode.com/u/kush09_/) solving algorithmic challenges.
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/kushpatel9/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kush-Patel09&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kush-Patel09&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,git,github,vscode,linux" />
+</p>
+
+---
+
+### 📈 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kush09_?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+</p>
