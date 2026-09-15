@@ -23,19 +23,11 @@
         <img src="https://skillicons.dev/icons?i=python,java,kotlin,androidstudio,xml,git,github,linux,mysql,postgresql,mongodb,jupyter,pandas,sklearn" alt="Tech Stack Icons" />
       </p>
     </td>
-    
     <td width="50%" valign="top">
       <h3>📈 LeetCode Live Stats</h3>
       <a href="https://leetcode.com/kush09_/">
         <img src="https://leetcard.jacoblin.cool/kush09_?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" width="100%" />
       </a>
-      
-      <h3>🕹️ Playable Snake Game</h3>
-      <p align="center">
-        <a href="https://git.io/play-snake">
-          <img src="https://raw.githubusercontent.com/Kush-Patel09/Kush-Patel09/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-        </a>
-      </p>
     </td>
   </tr>
 </table>
